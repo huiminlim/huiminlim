@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working on my CubeSat FYP. Stay tuned to see how it unfolds~
+🔭 I’m currently working on my 🛰️ CubeSat 🛰️ FYP.
 
 <!--
 **huiminlim/huiminlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
