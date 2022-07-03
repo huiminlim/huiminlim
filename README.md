@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![huiminlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiminlim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![huiminlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiminlim&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **huiminlim/huiminlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
