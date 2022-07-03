@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-https://skyline.github.com/huiminlim/2021
-
+[![huiminlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiminlim)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **huiminlim/huiminlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
