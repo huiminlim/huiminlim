@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm off to solve problems worth solving! 🚀🚀
+To solve problems worth solving! 🚀🚀
 
 [![huiminlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiminlim&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
